@@ -1,4 +1,6 @@
-WEB Interface for fraud detector is based on template Black Dashboard React.
+# fraudDetectorGui
+WEB Interface for fraud detector is based on template Black Dashboard.
+This is written in ReactJs
 
 This project includes
 - Dashboard:
